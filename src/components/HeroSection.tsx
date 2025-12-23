@@ -26,7 +26,9 @@ const HeroSection = () => {
             className="inline-block animate-fade-up"
             style={{ animationDelay: "0.1s" }}
           >
-            <img src="/assets/old school logo.png">
+           
+<img src="/assets/old school logo.png" alt="Old School Gym Boxing Club Logo" class="w-full h-full object-contain">
+
             </span>
           </div>
 
