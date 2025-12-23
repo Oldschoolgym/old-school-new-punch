@@ -8,7 +8,7 @@ import bagsImg from "@/assets/gallery-bags.jpg";
 import sparringImg from "@/assets/gallery-sparring.jpg";
 
 const galleryImages = [
-  { src: facilityImg, alt: "Gym Facility", category: "Facilities" },
+  { src: facilityImg, alt: "Young team", category: "Young Team" },
   { src: trainingImg, alt: "Training Session", category: "Training" },
   { src: equipmentImg, alt: "Boxing Equipment", category: "Equipment" },
   { src: ringImg, alt: "Boxing Ring", category: "Facilities" },
