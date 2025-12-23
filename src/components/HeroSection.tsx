@@ -1,6 +1,7 @@
 import heroImage from "@/assets/hero-boxing.jpg";
 import { Button } from "@/components/ui/button";
 import { ChevronDown } from "lucide-react";
+import logoImg from "@/assets/old school logo.png";
 
 const HeroSection = () => {
   const scrollToSection = (id: string) => {
@@ -25,8 +26,7 @@ const HeroSection = () => {
             className="inline-block animate-fade-up"
             style={{ animationDelay: "0.1s" }}
           >
-            <span className="px-4 py-2 text-sm font-medium tracking-widest uppercase border border-primary/50 text-primary bg-background/30 backdrop-blur-sm rounded-full">
-              Est. 1985
+            <img src="/assets/old school logo.png">
             </span>
           </div>
 
