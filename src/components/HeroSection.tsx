@@ -27,8 +27,9 @@ const HeroSection = () => {
             style={{ animationDelay: "0.1s" }}
           >
            
-<img src="/assets/old school logo.png" alt="Old School Gym Boxing Club Logo" class="w-full h-full object-contain">
-
+  <span className="px-4 py-2 text-sm font-medium tracking-widest uppercase border border-primary/50 text-primary bg-background/30 backdrop-blur-sm rounded-full">
+              Est. 1985
+            </span>
             
           </div>
 
