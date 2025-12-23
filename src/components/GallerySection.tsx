@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { X, ChevronLeft, ChevronRight } from "lucide-react";
-import facilityImg from "@/assets/gallery-facility.jpg";
+import groupkidsImg from "@/assets/groupkids.jpeg";
 import trainingImg from "@/assets/training.jpeg";
 import equipmentImg from "@/assets/gallery-equipment.jpg";
 import ringImg from "@/assets/gallery-ring.jpg";
@@ -8,7 +8,7 @@ import bagsImg from "@/assets/gallery-bags.jpg";
 import sparringImg from "@/assets/gallery-sparring.jpg";
 
 const galleryImages = [
-  { src: facilityImg, alt: "Young team", category: "Young Team" },
+  { src: groupkidsImg, alt: "Young team", category: "Young Team" },
   { src: trainingImg, alt: "Training Session", category: "Training" },
   { src: equipmentImg, alt: "Boxing Equipment", category: "Equipment" },
   { src: ringImg, alt: "Boxing Ring", category: "Facilities" },
