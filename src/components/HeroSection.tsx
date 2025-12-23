@@ -29,7 +29,7 @@ const HeroSection = () => {
            
 <img src="/assets/old school logo.png" alt="Old School Gym Boxing Club Logo" class="w-full h-full object-contain">
 
-            </span>
+            
           </div>
 
           {/* Title */}
