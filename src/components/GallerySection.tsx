@@ -43,7 +43,11 @@ const GallerySection = () => {
           </h2>
           <div className="w-24 h-1 bg-primary mx-auto mb-6" />
           <p className="text-muted-foreground text-lg max-w-2xl mx-auto">
-            Step inside Old School Boxing Gym — where champions are forged and legends train.
+            Step into Old School Gym Boxing Club and experience authentic boxing training the way it was meant to be. Our no-nonsense approach focuses on fundamental techniques, rigorous conditioning, and building a strong community of dedicated fighters.
+
+Whether you're looking to compete in the ring or simply want to get in the best shape of your life, our experienced coaches will guide you every step of the way. We believe in hard work, discipline, and respect – the cornerstones of the sweet science.
+
+From complete beginners to seasoned fighters, everyone is welcome at Old School Gym. We maintain a supportive yet challenging environment where you'll push your limits and discover what you're truly capable of achieving.
           </p>
         </div>
 
