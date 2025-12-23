@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { X, ChevronLeft, ChevronRight } from "lucide-react";
 import facilityImg from "@/assets/gallery-facility.jpg";
-import trainingImg from "@/assets/training.jpg";
+import trainingImg from "@/assets/training.jpeg";
 import equipmentImg from "@/assets/gallery-equipment.jpg";
 import ringImg from "@/assets/gallery-ring.jpg";
 import bagsImg from "@/assets/gallery-bags.jpg";
